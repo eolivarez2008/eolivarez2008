@@ -4,18 +4,6 @@
 ## À propos
 Étudiant en Bac Pro CIEL avec une orientation technique marquée : intégration web, développement front léger et création de prototypes interactifs. Capacité à structurer, automatiser et rendre du contenu dynamique. Expérience supplémentaire en développement de jeux via Unity 6.
 
-## Compétences techniques
-
-### Web / Front-End
-- HTML5, CSS3 (responsive, BEM), Bootstrap
-- JavaScript (DOM, fetch, JSON)
-- Intégration de données externes (JSON) dans des pages dynamiques
-
-### Développement logiciel / Jeux vidéo
-- Unity 6 (2D)
-- C# orienté gameplay basique
-- Gestion de scènes, sprites, collisions, logique simple d’état
-
 ## Projets récents
 
 ### Jeu 2D Unity 6
@@ -33,6 +21,3 @@ Page web moderne et structurée expliquant la formation, ses objectifs et ses d�
 ### Initiation WebGL (A-Frame & Three.js)
 Mini-site démonstratif montrant les bases de la 3D WebGL via A-Frame et Three.js. Mise en place d’objets 3D, scènes simples et interactions basiques.  
 **Lien :** [https://github.com/eolivarez2008/Stage-Cormon-VR](https://github.com/eolivarez2008/Stage-Cormon-VR)
-
-## Contact
-- Me contacter : eolivarez2008@gmail.com
